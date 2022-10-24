@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h2> 안녕하세요<h2>
- <h3> 아녕<h3>
+<h2> 안녕하세요
+<h3> 아녕<h3>
 
 <!--
 **EHoSeong/EHoSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
