@@ -1,7 +1,11 @@
 ### Hi there 👋
 <h2> 안녕하세요
-<h3> 아녕<h3>
+<h3> 아녕
 
+
+  
+  <img src="https://img.shields.io/badge/으아-005571?style=flat-square&logo=Beats&logoColor=white"/>
+  
 <!--
 **EHoSeong/EHoSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
