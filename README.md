@@ -7,8 +7,7 @@
   
   <img src="https://img.shields.io/badge/으아-005571?style=flat-square&logo=Beats&logoColor=white"/>
   
-  <p> 사용언어
-     <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=GitHub&logoColor=white"/>사용언어 <br>
 <!--
 **EHoSeong/EHoSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
