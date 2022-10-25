@@ -1,12 +1,6 @@
 ### Hi there 👋
 <h2> 안녕하세요
-<h3> 아녕
 
-  
-
-  
-  <img src="https://img.shields.io/badge/으아-005571?style=flat-square&logo=Beats&logoColor=white"/>
-  
  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=GitHub&logoColor=white"/>보유기술 <br>
    <img src="https://img.shields.io/badge/JAVA-005571?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
