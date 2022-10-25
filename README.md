@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-15172B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <!--
 **EHoSeong/EHoSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
