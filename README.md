@@ -12,14 +12,13 @@
 저는 개발자중 백엔드 개발자를 목표로 하고있습니다. 저의 강점인 JAVA와 SPRING을 활용하여 웹개발을 하는것이 저의 목표입니다!
 
 
- <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=GitHub&logoColor=white"/>보유기술 <br>
+<h3> 🛠보유기술 </h3>
+<div>
    <img src="https://img.shields.io/badge/JAVA-005571?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-15172B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<a href="https://i987412563i@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+  <div>
+
