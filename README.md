@@ -21,4 +21,51 @@
   <img src="https://img.shields.io/badge/CSS-15172B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <div>
-
+   
+   <h3> 재학중 들었던 과목</h3>
+<table>
+ <tr>
+  <th> 수강과목</th>
+  <th> 이수학기</th>
+ </tr>
+  <tr>
+  <td>파이썬과학프로그래밍</td>
+  <td> 2021-1</td>
+ </tr>
+ <tr>
+  <td>자바프로그래밍1</td>
+  <td> 2021-2</td>
+ </tr>
+  <tr>
+  <td>C프로그래밍</td>
+  <td> 2021-2</td>
+ </tr>
+  <tr>
+  <td>자바프로그래밍1</td>
+  <td> 2021-2</td>
+ </tr>
+  <tr>
+  <td>자바프로그래밍2</td>
+  <td> 2022-1</td>
+ </tr>
+  <tr>
+  <td>데이터사이언스기초</td>
+  <td> 2022-1</td>
+ </tr>
+  <tr>
+  <td>웹프로그래밍</td>
+  <td> 2021-2</td>
+ </tr>
+  <tr>
+  <td>오픈소스SW개발도구활용</td>
+  <td> 2022-2</td>
+ </tr>
+  <tr>
+  <td>웹프레임워크활용</td>
+  <td> 2022-2</td>
+ </tr>
+  <tr>
+  <td>소프트웨어세미나2</td>
+  <td> 2022-2</td>
+ </tr>
+   </table>
